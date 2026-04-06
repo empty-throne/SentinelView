@@ -12,7 +12,7 @@
 
 *An interactive SOC analyst training platform featuring 13 real-world detection rules, full MITRE ATT&CK mappings, response playbooks, and a live alert simulation engine — built to demonstrate both defensive security knowledge and frontend engineering capability.*
 
-**[▶ Live Demo](https://YOUR_DEMO_LINK_HERE)** · **[Portfolio](https://YOUR_PORTFOLIO_HERE)** · **[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)**
+**[▶ Live Demo](sentinel-view-l8m3.vercel.app)** · **[Portfolio](https://github.com/empty-throne)** · **[LinkedIn](www.linkedin.com/in/zackery-monk)**
 
 </div>
 
