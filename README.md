@@ -249,8 +249,8 @@ To capture clean portfolio screenshots:
 **Zackery** — Cybersecurity professional transitioning into SOC analysis and penetration testing.
 B.S. Cybersecurity (Cum Laude, 3.81 GPA) · CompTIA Security+ (in progress) · Charlotte, NC
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B6?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-333?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B6?style=flat&logo=linkedin)](www.linkedin.com/in/zackery-monk)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-333?style=flat&logo=github)](https://github.com/empty-throne)
 
 ---
 
